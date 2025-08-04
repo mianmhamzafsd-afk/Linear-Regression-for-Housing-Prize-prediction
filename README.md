@@ -1,4 +1,4 @@
 # Linear-Regression
-This is a prectice project for my summer.
+This is a practice project of my summer.
 <br>
 Auther - Hamza Nadeem
